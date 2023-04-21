@@ -1,2 +1,2 @@
 # WallPaper
-some favorite pics for wallpaper
+some nice pics for wallpaper
