@@ -31,7 +31,7 @@ some nice pics for wallpaper
 15.jpg
 ![15.jpg](15.jpg)
 16.png
-![16.png](16.png)
+![16.jpg](16.jpg)
 46.png
 ![46.png](46.png)
 48.png
@@ -45,7 +45,7 @@ some nice pics for wallpaper
 60.png
 ![60.png](60.png)
 65.png
-![65.png](65.png)
+![65.jpg](65.jpg)
 68.png
 ![68.png](68.png)
 77.png
