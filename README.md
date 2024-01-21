@@ -2,8 +2,8 @@
 
 some nice pics for wallpaper
 
-01.png
-![01.png](01.png)
+01.jpg
+![01.jpg](01.jpg)
 02.png
 ![02.png](02.png)
 03.png
