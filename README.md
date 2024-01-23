@@ -6,8 +6,8 @@ some nice pics for wallpaper
 ![01.jpg](01.jpg)
 02.png
 ![02.png](02.png)
-03.png
-![03.png](03.png)
+03.jpg
+![03.jpg](03.jpg)
 04.jpg
 ![04.jpg](04.jpg)
 05.jpg
@@ -20,6 +20,8 @@ some nice pics for wallpaper
 ![08.jpg](08.jpg)
 09.jpg
 ![09.jpg](09.jpg)
+10.jpg
+![10.jpg](10.jpg)
 11.jpg
 ![11.jpg](11.jpg)
 12.jpg
@@ -32,8 +34,8 @@ some nice pics for wallpaper
 ![15.jpg](15.jpg)
 16.png
 ![16.png](16.png)
-17.png
-![17.png](17.png)
+17.jpg
+![17.jpg](17.jpg)
 46.png
 ![46.png](46.png)
 48.png
@@ -50,8 +52,6 @@ some nice pics for wallpaper
 ![65.png](65.png)
 68.png
 ![68.png](68.png)
-77.png
-![77.png](77.png)
 wallpaper.png
 ![wallpaper.png](wallpaper.png)
 wallpaper-dark.png
