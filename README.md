@@ -1,6 +1,6 @@
 # WallPaper
 
-some nice pics for wallpaper
+## Some nice pics for wallpaper
 
 01.jpg
 ![01.jpg](01.jpg)
