@@ -138,7 +138,11 @@
 ![67.jpg](67.jpg)
 68.png
 ![68.png](68.png)
-wallpaper.png
+69.jpg
+![69.jpg](69.jpg)
+70.jpg
+![70.jpg](70.jpg)
+allpaper.png
 ![wallpaper.png](wallpaper.png)
 wallpaper-dark.png
 ![wallpaper-dark.png](wallpaper-dark.png)
